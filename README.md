@@ -2,7 +2,7 @@
 
 ## Git link:
 
-
+https://github.com/KseniyaShautsova/WebApp_DraftAcademy
 
 ## Vercel link:
 
